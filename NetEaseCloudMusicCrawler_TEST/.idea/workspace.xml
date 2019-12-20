@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dfa4f49-5b10-4f65-8267-f2bdba3038f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/分词去重.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NetEaseCloudMusicCrawler_TEST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NetEaseCloudMusicCrawler_TEST.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANALYSOR/pycode/分析1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/pycode/分析1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANALYSOR/pycode/分词.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/pycode/分词.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV/data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV/data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV/list_song_details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV/list_song_details.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV/list_comment_details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV/list_comment_details.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.分词去重">
+  <component name="RunManager" selected="Python.bar3d_example">
     <configuration name="分词" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,7 +160,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.分词去重" />
         <item itemvalue="Python.分词" />
         <item itemvalue="Python.分析1" />
         <item itemvalue="Python.bar3d_example" />
