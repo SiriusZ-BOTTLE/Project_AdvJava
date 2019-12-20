@@ -1,0 +1,436 @@
+1576488873735	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileLyQ4u5"
+*** You are running in headless mode.
+1576488874871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576488874871	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576488874872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576488874872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576488876761	Marionette	INFO	Listening on port 14777
+1576488876982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576499892063	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileKzGrnH"
+*** You are running in headless mode.
+1576499893836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576499893836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576499893836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576499893836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576499896429	Marionette	INFO	Listening on port 3445
+1576499896527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576499959428	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile93OYNA"
+*** You are running in headless mode.
+1576499960550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576499960550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576499960551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576499960551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576499963130	Marionette	INFO	Listening on port 3580
+1576499963274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576500065134	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileDQqxHZ"
+*** You are running in headless mode.
+1576500066320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576500066320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576500066320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576500066320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576500068358	Marionette	INFO	Listening on port 3852
+1576500068376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576500104099	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileBcRvqK"
+*** You are running in headless mode.
+1576500105444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576500105444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576500105445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576500105445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576500107500	Marionette	INFO	Listening on port 3991
+1576500107550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576500169799	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileJzKOKe"
+*** You are running in headless mode.
+1576500171112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576500171112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576500171113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576500171113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576500172985	Marionette	INFO	Listening on port 4156
+1576500173044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576500243196	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileHntHUl"
+*** You are running in headless mode.
+1576500248514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576500248514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576500248515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576500248515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576500250451	Marionette	INFO	Listening on port 4398
+1576500250855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576500316730	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileQ32uVP"
+*** You are running in headless mode.
+1576500318971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576500318971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576500318971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576500318971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576500320895	Marionette	INFO	Listening on port 4656
+1576500321079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+Exiting due to channel error.
+	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile9MXIaQ"
+*** You are running in headless mode.
+1576500553371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576500553371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576500553371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576500553371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576500555643	Marionette	INFO	Listening on port 5296
+1576500556112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576500687114	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile4wWPqu"
+*** You are running in headless mode.
+1576500690999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576500690999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576500690999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576500690999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576500693369	Marionette	INFO	Listening on port 5591
+1576500693667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576500849949	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile06rOVd"
+*** You are running in headless mode.
+1576500851157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576500851157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576500851157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576500851157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576500853119	Marionette	INFO	Listening on port 6076
+1576500853207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576501102966	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilefuyLKG"
+*** You are running in headless mode.
+1576501108594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576501108595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576501108595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576501108595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576501110409	Marionette	INFO	Listening on port 6674
+1576501110623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576501213769	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileqrqAXG"
+*** You are running in headless mode.
+1576501217071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576501217071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576501217071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576501217071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576501219718	Marionette	INFO	Listening on port 6983
+1576501219946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576501221245	Marionette	INFO	Stopped listening on port 6983
+[Child 8588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3360, Chrome_Child1576501279147	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileSPihrL"
+*** You are running in headless mode.
+1576501280465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576501280466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576501280466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576501280466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576501282900	Marionette	INFO	Listening on port 7163
+1576501282995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576501441939	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilesvxx3W"
+*** You are running in headless mode.
+1576501446672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576501446672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576501446672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576501446672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576501449043	Marionette	INFO	Listening on port 7500
+1576501449234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576501789045	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilej8K71q"
+*** You are running in headless mode.
+1576501792241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576501792241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576501792241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576501792241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576501794471	Marionette	INFO	Listening on port 8143
+1576501794555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576501810581	Marionette	INFO	Stopped listening on port 8143
+[Child 6588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/sr[Parent 22772, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22772, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24540, Chrome_ChildThread] WARNIN1576502484865	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileaPE09d"
+*** You are running in headless mode.
+1576502486259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576502486259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576502486259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576502486259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576502488307	Marionette	INFO	Listening on port 9475
+1576502488723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576502490969	Marionette	INFO	Stopped listening on port 9475
+[Parent 21384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11996, Chrome_Ch[Parent 21384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14440, Chrom1576502667446	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileB8AoSe"
+*** You are running in headless mode.
+1576502668848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576502668848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576502668848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576502668848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576502671018	Marionette	INFO	Listening on port 9834
+1576502671393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576502793699	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileTzW9tr"
+*** You are running in headless mode.
+1576502795014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576502795014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576502795014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576502795014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576502797252	Marionette	INFO	Listening on port 10110
+1576502797551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576502815797	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilenBRys0"
+*** You are running in headless mode.
+1576502817181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576502817181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576502817181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576502817181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576502819579	Marionette	INFO	Listening on port 10210
+1576502819642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576502906141	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileCOYz4A"
+*** You are running in headless mode.
+1576502907479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576502907479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576502907479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576502907479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576502910008	Marionette	INFO	Listening on port 10430
+1576502910082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576502971117	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile9AErXx"
+*** You are running in headless mode.
+1576502972356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576502972356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576502972356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576502972356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576502974470	Marionette	INFO	Listening on port 10601
+1576502974967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576503040978	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilejWVGZ4"
+*** You are running in headless mode.
+1576503042343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576503042343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576503042343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576503042343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576503044655	Marionette	INFO	Listening on port 10789
+1576503044828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576503265559	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileOOBoBu"
+*** You are running in headless mode.
+1576503267238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576503267238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576503267238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576503267238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576503269628	Marionette	INFO	Listening on port 11389
+1576503270127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576505204128	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile8oVK19"
+*** You are running in headless mode.
+1576505207223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576505207223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576505207223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576505207223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576505209816	Marionette	INFO	Listening on port 14727
+1576505210290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576505252605	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile5938v6"
+*** You are running in headless mode.
+1576505254279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576505254279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576505254279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576505254279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576505256481	Marionette	INFO	Listening on port 14867
+1576505256953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576505303929	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileDTBOwO"
+*** You are running in headless mode.
+1576505305329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576505305329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576505305329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576505305329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576505307486	Marionette	INFO	Listening on port 1043
+1576505307799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576505384387	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileYNnWBu"
+*** You are running in headless mode.
+1576505385976	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576505385977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576505385977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576505385977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576505388546	Marionette	INFO	Listening on port 1258
+1576505388960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576505415753	Marionette	INFO	Stopped listening on port 1258
+[Parent 25800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 25800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23152[Parent 25800, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_157[Parent 25800, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17196, Chrome[Parent 25800, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1576505728341	mozrunner::runner	INFO	Running command: "E:\\FireFox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileY4cb1k"
+*** You are running in headless mode.
+1576505732304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576505732304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576505732305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576505732305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576505735013	Marionette	INFO	Listening on port 1914
+1576505735041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 94: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_a3a0ec8d9bf9a27b7098e5b260f1f6a4.js?a3a0ec8d9bf9a27b7098e5b260f1f6a4, line 134: unreachable code after return statement
+1576505855573	Marionette	INFO	Stopped listening on port 1914
+[Parent 22064, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22064, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22064, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 22064, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
