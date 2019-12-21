@@ -24,11 +24,21 @@ import numpy as np
 
 
 
-str = "123.456万"
+# str = "123.456万"
+#
+# print(str.endswith("万"))
+#
+# str = str[0:-1:1]
+# print(str)
 
-print(str.endswith("万"))
 
-str = str[0:-1:1]
-print(str)
+list = [[1, 2], [3, 4]]
 
+print(list)
+
+list_nda = np.array(list)
+
+print(list_nda)
+print(list_nda[0])
+print(type(list_nda[0]))
 

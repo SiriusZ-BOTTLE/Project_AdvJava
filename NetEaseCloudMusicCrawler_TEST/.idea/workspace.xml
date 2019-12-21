@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dfa4f49-5b10-4f65-8267-f2bdba3038f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/SongFilter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/SongFilter/songFilter_byKeyWord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/list_keyWords_all.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/list_lyric_p.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/去重分词.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UTIL/StringUtil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UTIL/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/render.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/test2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,18 +35,24 @@
     <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_playlistRecord.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1V3K0zY98eUDyvl6jIiefy6K6QX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSV" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\ANALYSOR\EXAMPLES" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Files\Projects\Git_projects\Project_AdvJava\NetEaseCloudMusicCrawler_TEST\CSV" />
       <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\CRAWLER" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Files\Projects\Git_projects\Project_AdvJava\NetEaseCloudMusicCrawler_TEST\CSV" />
+      <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\ANALYSOR\EXAMPLES" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,8 +67,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bar3d_example">
-    <configuration name="bar3d_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wordcloud_example">
+    <configuration name="bar_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/bar3d_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/bar_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="crawler_commentsUnderSong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pie_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CRAWLER" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CRAWLER/crawler_commentsUnderSong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/pie_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="crawler_getAllCommentUnderSong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="songFilter_byKeyWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CRAWLER" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/SongFilter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CRAWLER/crawler_getAllCommentUnderSong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/SongFilter/songFilter_byKeyWord.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="crawler_getCommentsUnderSong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CRAWLER" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TEST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\CRAWLER\crawler_commentsUnderSong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEST/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wordcloud_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/wordcloud_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bar3d_example" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.crawler_getAllCommentUnderSong" />
-        <item itemvalue="Python.crawler_commentsUnderSong" />
-        <item itemvalue="Python.crawler_getCommentsUnderSong" />
+        <item itemvalue="Python.wordcloud_example" />
+        <item itemvalue="Python.songFilter_byKeyWord" />
+        <item itemvalue="Python.pie_example" />
+        <item itemvalue="Python.bar_example" />
+        <item itemvalue="Python.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +201,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
