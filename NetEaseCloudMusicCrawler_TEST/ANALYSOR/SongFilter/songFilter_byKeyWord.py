@@ -7,9 +7,6 @@ import numpy as np
 
 from pyecharts import options as opts
 from pyecharts.charts import Bar, Page
-from pyecharts.commons.utils import JsCode
-from pyecharts.faker import Collector, Faker
-from pyecharts.globals import ThemeType
 from pyecharts.charts import Page, Pie
 
 
@@ -17,7 +14,7 @@ from pyecharts.charts import Page, Pie
 
 
 # 文件路径
-filePath_allKeyWords = "../../CSV/list_keyWords_all.csv"
+filePath_allKeyWords = "../../CSV/list_allWords.csv"
 filePath_allLyrics = "../../CSV/list_lyric_p.csv"
 filePath_allSongs = "../../CSV/list_song_details.csv"
 
