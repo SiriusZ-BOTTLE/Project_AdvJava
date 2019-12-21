@@ -25,8 +25,8 @@ filePath_allSongs = "../../CSV/list_song_details.csv"
 # 读取数据
 def read_data():
 
-    # 读取全部的关键词信息
-    list_all_kw = np.ravel(np.array(pd.read_csv(filePath_allKeyWords).astype(str))).tolist()
+    # 读取全部的词信息
+    list_all_w = np.ravel(np.array(pd.read_csv(filePath_allKeyWords).astype(str))).tolist()
 
     # 读取全部歌词(每一行一个字符串)
     list_lyrics = pd.read_csv(filePath_allLyrics)
@@ -44,7 +44,7 @@ def read_data():
         list_words = list_lyrics[i].split(' ')
         list_lyrics_p.append(list_words)  # 分割后添加到处理表
 
-    return list_all_kw, list_lyrics_p, list_songs
+    return list_all_w, list_lyrics_p, list_songs
 
 
 def bar_0(title, list_itemName, list_className, list_itemValue) -> Bar:
