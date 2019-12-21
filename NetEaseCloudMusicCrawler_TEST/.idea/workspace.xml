@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dfa4f49-5b10-4f65-8267-f2bdba3038f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ANALYSOR/SongFilter/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ANALYSOR/SongFilter/songFilter_byKeyWord.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/list_keyWords_all.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/list_lyric_p.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/去重分词.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UTIL/StringUtil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UTIL/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/render.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/test2.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,13 +20,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_songRecord.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_getAllSongRecord.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_songRecord.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_playlistRecord.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1V3K0zY98eUDyvl6jIiefy6K6QX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -54,18 +49,6 @@
       <recent name="D:\Files\Projects\Git_projects\Project_AdvJava\NetEaseCloudMusicCrawler_TEST\CSV" />
       <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\ANALYSOR\EXAMPLES" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.wordcloud_example">
     <configuration name="bar_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -183,6 +166,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -208,5 +203,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576902908689">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1576902908689" />
   </component>
 </project>
