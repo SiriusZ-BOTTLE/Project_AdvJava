@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dfa4f49-5b10-4f65-8267-f2bdba3038f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/fixtures/drink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/fixtures/energy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/fixtures/flare.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/fixtures/hangzhou-tracks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/fixtures/les-miserables.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/fixtures/npmdepgraph.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/fixtures/symbol.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/fixtures/treemap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/fixtures/weibo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/WordsCloud/get_keyWords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/WordsCloud/keyWordsCloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/csvTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/data2-歌曲数量排序.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/list_singer_sorted.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/EXAMPLES/render.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/SongFilter/songFilter_byKeyWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/SongFilter/songFilter_byKeyWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/WordsCloud/wordCloud_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/WordsCloud/wordCloud_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV/list_keyWords_all.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV/list_allWords.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSV/list_lyric_p.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV/list_lyric_p.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +55,65 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSV" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Files\Projects\Git_projects\Project_AdvJava\NetEaseCloudMusicCrawler_TEST\ANALYSOR\EXAMPLES" />
+      <recent name="D:\Files\Projects\Git_projects\Project_AdvJava\NetEaseCloudMusicCrawler_TEST\CSV" />
+      <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\ANALYSOR\EXAMPLES" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Files\Projects\Git_projects\Project_AdvJava\NetEaseCloudMusicCrawler_TEST\CSV" />
       <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\CRAWLER" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Files\Projects\Git_projects\Project_AdvJava\NetEaseCloudMusicCrawler_TEST\CSV" />
-      <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\ANALYSOR\EXAMPLES" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.wordcloud_example">
-    <configuration name="bar_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wordCloud_all">
+    <configuration name="csvTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NetEaseCloudMusicCrawler_TEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CSV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CSV/csvTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_keyWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NetEaseCloudMusicCrawler_TEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/WordsCloud" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/WordsCloud/get_keyWords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/bar_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/graph_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pie_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sunburst_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/pie_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/sunburst_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="songFilter_byKeyWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wordCloud_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,53 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/SongFilter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/WordsCloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/SongFilter/songFilter_byKeyWord.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NetEaseCloudMusicCrawler_TEST" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TEST" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEST/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wordcloud_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NetEaseCloudMusicCrawler_TEST" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/wordcloud_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/WordsCloud/wordCloud_all.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wordcloud_example" />
-        <item itemvalue="Python.songFilter_byKeyWord" />
-        <item itemvalue="Python.pie_example" />
-        <item itemvalue="Python.bar_example" />
-        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.wordCloud_all" />
+        <item itemvalue="Python.get_keyWords" />
+        <item itemvalue="Python.csvTest" />
+        <item itemvalue="Python.graph_example" />
+        <item itemvalue="Python.sunburst_example" />
       </list>
     </recent_temporary>
   </component>
@@ -209,5 +229,32 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="640" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1576902908689" />
+    <state width="1899" height="570" key="GridCell.Tab.0.bottom" timestamp="1576938216703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="570" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1576938216703" />
+    <state width="1899" height="570" key="GridCell.Tab.0.center" timestamp="1576938216703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="570" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1576938216703" />
+    <state width="1899" height="570" key="GridCell.Tab.0.left" timestamp="1576938216703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="570" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1576938216703" />
+    <state width="1899" height="570" key="GridCell.Tab.0.right" timestamp="1576938216703">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="570" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1576938216703" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ANALYSOR/WordsCloud/get_keyWords.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
