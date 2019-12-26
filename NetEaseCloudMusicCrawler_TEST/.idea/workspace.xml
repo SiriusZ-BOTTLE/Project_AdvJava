@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dfa4f49-5b10-4f65-8267-f2bdba3038f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/修改词向量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/评论分词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/评论训练.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/评论预测.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/词向量训练.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/评论分词/word_vec.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSV/评论分词/评论总分词.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NetEaseCloudMusicCrawler_TEST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NetEaseCloudMusicCrawler_TEST.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV/list_comment_details.csv" beforeDir="false" afterPath="$PROJECT_DIR$/CSV/list_comment_details.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/pycode/按点赞数排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/pycode/按点赞数排序.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +36,11 @@
     <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_songRecord.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1V3K0zY98eUDyvl6jIiefy6K6QX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -52,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bar3d_example">
+  <component name="RunManager" selected="Python.修改词向量">
     <configuration name="分词" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,6 +107,111 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="评论训练" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NetEaseCloudMusicCrawler_TEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/评论训练.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="修改词向量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NetEaseCloudMusicCrawler_TEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/修改词向量.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="评论分词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NetEaseCloudMusicCrawler_TEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/评论分词.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="词向量训练" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NetEaseCloudMusicCrawler_TEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/词向量训练.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="评论训练" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NetEaseCloudMusicCrawler_TEST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/评论训练.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="分词去重" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,54 +233,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bar3d_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NetEaseCloudMusicCrawler_TEST" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES/bar3d_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NetEaseCloudMusicCrawler_TEST" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.修改词向量" />
+        <item itemvalue="Python.评论训练" />
         <item itemvalue="Python.分词" />
         <item itemvalue="Python.分析1" />
-        <item itemvalue="Python.bar3d_example" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -192,5 +267,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

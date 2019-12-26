@@ -1,6 +1,6 @@
 import pandas as pd
 
-path='../../CSV/list_song_details.csv'
+path='../../CSV/list_comment_details.csv'
 #数据列索引
 columns=['歌名','作者','专辑','评论数','歌词']
 # csv_data = np.loadtxt(path, dtype=str,delimiter=',',encoding='utf-8')
