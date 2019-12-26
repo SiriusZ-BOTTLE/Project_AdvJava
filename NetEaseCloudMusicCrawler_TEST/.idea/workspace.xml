@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dfa4f49-5b10-4f65-8267-f2bdba3038f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/修改词向量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/评论分词.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/评论训练.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/评论预测.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ANALYSOR/pycode/词向量训练.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/评论分词/word_vec.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/评论分词/评论总分词.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/NetEaseCloudMusicCrawler_TEST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NetEaseCloudMusicCrawler_TEST.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANALYSOR/pycode/按点赞数排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/pycode/按点赞数排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/SongFilter/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/Main/GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/SongFilter/GUI_QT.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/Main/GUI_QT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/SongFilter/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/Main/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/SongFilter/songFilter.html" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/Main/songFilter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/SongFilter/songFilter_byKeyWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/Main/songFilter_byKeyWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANALYSOR/pycode/评论预测.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANALYSOR/pycode/评论预测.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_playlistRecord.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_getAllSongRecord.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_songRecord.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CRAWLER/crawler_playlistRecord.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1V3K0zY98eUDyvl6jIiefy6K6QX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,31 +38,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ANALYSOR/EXAMPLES" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\CRAWLER" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\ANALYSOR\EXAMPLES" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Files\Projects\PY_projects\NetEaseCloudMusicCrawler_TEST\CRAWLER" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.修改词向量">
-    <configuration name="分词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.GUI_QT (1)">
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/SongFilter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/分词.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/SongFilter/GUI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="分析1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GUI_QT (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/Main" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/分析1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/Main/GUI_QT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="评论训练" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GUI_QT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/SongFilter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/评论训练.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/SongFilter/GUI_QT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="修改词向量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_keyWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/WordsCloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/修改词向量.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/WordsCloud/get_keyWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="评论分词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="songFilter_byKeyWord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NetEaseCloudMusicCrawler_TEST" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,74 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/SongFilter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/评论分词.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="词向量训练" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NetEaseCloudMusicCrawler_TEST" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/词向量训练.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="评论训练" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NetEaseCloudMusicCrawler_TEST" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/评论训练.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="分词去重" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NetEaseCloudMusicCrawler_TEST" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANALYSOR/pycode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/pycode/分词去重.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANALYSOR/SongFilter/songFilter_byKeyWord.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,12 +159,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.修改词向量" />
-        <item itemvalue="Python.评论训练" />
-        <item itemvalue="Python.分词" />
-        <item itemvalue="Python.分析1" />
+        <item itemvalue="Python.GUI_QT (1)" />
+        <item itemvalue="Python.GUI_QT" />
+        <item itemvalue="Python.GUI" />
+        <item itemvalue="Python.songFilter_byKeyWord" />
+        <item itemvalue="Python.get_keyWords" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -268,7 +205,38 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  <component name="WindowStateProjectService">
+    <state x="727" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577349033272">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="727" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1577349033272" />
+    <state x="640" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576902908689">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1576902908689" />
+    <state width="1899" height="253" key="GridCell.Tab.0.bottom" timestamp="1577368300205">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1577368300205" />
+    <state width="1899" height="570" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1576938216703" />
+    <state width="1899" height="253" key="GridCell.Tab.0.center" timestamp="1577368300205">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1577368300205" />
+    <state width="1899" height="570" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1576938216703" />
+    <state width="1899" height="253" key="GridCell.Tab.0.left" timestamp="1577368300205">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1577368300205" />
+    <state width="1899" height="570" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1576938216703" />
+    <state width="1899" height="253" key="GridCell.Tab.0.right" timestamp="1577368300205">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="253" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1577368300205" />
+    <state width="1899" height="570" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1576938216703" />
+    <state x="383" y="210" key="SettingsEditor" timestamp="1577368381386">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="383" y="210" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1577368381386" />
   </component>
 </project>
