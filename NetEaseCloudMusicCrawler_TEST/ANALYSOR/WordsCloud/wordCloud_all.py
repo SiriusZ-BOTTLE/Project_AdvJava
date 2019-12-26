@@ -153,7 +153,11 @@ def main():
     page.add(bar)
     page.add(wc_1)
     page.add(wc_2)
-    page.render()
+
+
+    # page.render()
+
+    page.render(r"./wordCloud.html")
 
     print(list_singer_p)
 

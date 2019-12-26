@@ -79,10 +79,117 @@ def pie_0(list_data0, list_data1) -> Pie:
 
 
 
+def run(data):
+    print("<Initializing>")
+
+    read_data()
+
+    # 读取数据
+    list_all, list_lyrics, list_songs = read_data()
+
+    # 总歌曲数量
+    num_song = len(list_lyrics)
+    print("<AllSong> ", num_song)
+
+    # print(np.array(list_lyrics))
+
+    # 获取输入
+    # line = input("Please Enter The Key Word:\n")
+
+    line = data
+    # 拆分关键词
+    list_kw = line.split(';')
+
+    # 输出关键词
+    print("<KeyWords> ", list_kw)
+
+    # 处理后列表
+    list_kw_p = []
+
+    len_all_kw = len(list_all)
+
+    # 针对每一个给定的关键词, 从词库中找到最接近的词语
+    for i in range(len(list_kw)):
+        max_sim = 0.0
+        index_max = 0
+        for j in range(len_all_kw):
+            sim_tmp = SU.get_sim(list_kw[i], list_all[j])
+            if max_sim < sim_tmp:
+                max_sim = sim_tmp
+                index_max = j
+        if max_sim >= 0.1:
+            list_kw_p.append(list_all[index_max])  # 用词库中接近的词替换
+
+    # 去除重复
+    list_kw_p = list(set(list_kw_p))
+
+    print("<KeyWords> ", list_kw_p)
+
+    if len(list_kw_p) == 0:
+        print("无法检索到对应的关键词")
+        return  # 退出
+
+    # 匹配度列表
+    list_matchCount = []
+
+    # list_componentCount = []
+
+    count_records = 0
+    count_allWords = 0
+    for i in range(num_song):
+        count_tmp = 0
+        count_component = [0] * len(list_kw_p)  # 分量计数
+        count_allWords = count_allWords + len(list_lyrics[i])
+        for j in range(len(list_kw_p)):
+            num = list_lyrics[i].count(list_kw_p[j])
+            count_tmp = count_tmp + num
+            count_component[j] = count_component[j] + num  # 分量计数+1
+
+        if count_tmp != 0 and count_records < 200:  # 只添加有匹配度的
+            list_matchCount.append([i, count_tmp, list_songs[i], count_component])
+            count_records = count_records + 1
+
+    print(list_matchCount)
+
+    # 降序排序
+    list_matchCount = sorted(list_matchCount, key=lambda list_matchCount: int(list_matchCount[1]), reverse=True)
+
+    print(list_matchCount)
+
+    list_itemName = (np.ravel(np.array(list_matchCount)[:, 2:3])).tolist()
+    print(list_itemName)
+
+    # 这两句真的是写吐血了....
+    list_itemValues = np.array((np.ravel(np.array(list_matchCount)[:, 3:4])).tolist())
+    list_itemValues = list_itemValues.transpose().tolist()
+    list_className = list_kw_p
+
+    data_pie_0 = []
+
+    count_keyWords = 0
+    for i in range(len(list_kw_p)):
+        count_tmp = int(np.sum(list_itemValues[i]))
+        count_keyWords = count_keyWords + count_tmp
+        data_pie_0.append([list_kw_p[i], count_tmp])
+    print(data_pie_0)
+
+    data_pie_1 = [['关键词', count_keyWords], ["其他", count_allWords - count_keyWords]]
+
+    page = Page()
+
+    chart0 = bar_0(line + " 关键词检索", list_itemName, list_className, list_itemValues)
+    page.add(chart0)
+
+    chart1 = pie_0(data_pie_0, data_pie_1)
+    page.add(chart1)
+
+    # page.render()  # 渲染页面
+    page.render(r"songFilter.html")
+
+
 
 
 def main():
-
     print("<Initializing>")
 
     read_data()
@@ -187,7 +294,8 @@ def main():
     chart1 = pie_0(data_pie_0, data_pie_1)
     page.add(chart1)
 
-    page.render()  # 渲染页面
+    # page.render()  # 渲染页面
+    page.render(r"songFilter.html")
 
 
 if __name__ == '__main__':
