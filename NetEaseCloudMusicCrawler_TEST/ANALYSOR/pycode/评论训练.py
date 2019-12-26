@@ -6,7 +6,6 @@ import gensim
 import numpy as np
 import pandas as pd
 import tensorflow as tf
-# from tensorflow import keras
 from sklearn.model_selection import train_test_split
 
 
@@ -26,11 +25,15 @@ def build_embeddings_matrix(word_vec_model):
 
 # 生成三组数据集
 def train_data(word_index):
-    df = pd.read_csv("../../CSV/评论分词/word_vec.txt", names=["review", "label"])
+    df = pd.read_csv("../../CSV/评论分词/评论总分词.csv",header=0,names=["review", "label"],engine='python',encoding='utf-8')
+    # print(df['review'])
     df["word_index"] = df["review"].astype("str").map(lambda x: np.array([word_index.get(i, 0) for i in x.split(" ")]))
+    print(df["word_index"])
     # 填充及截断
     train = tf.keras.preprocessing.sequence.pad_sequences(df["word_index"].values, maxlen=20, padding='post', truncating='post', dtype="float32")
-    x_train, x_test, y_train, y_test = train_test_split(train, df[].values, test_size=0.2, random_state=1)
+    # print(train)
+    # print(df['label'])
+    x_train, x_test, y_train, y_test = train_test_split(train, df['label'], test_size=0.2, random_state=1)
 
     # 从训练集上分出验证集
     x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.15)
@@ -49,12 +52,13 @@ def build_model(word_index, embeddings_matrix):
     model.summary()
     return model
 # 读取数据
-word_vec_model = gensim.models.KeyedVectors.load_word2vec_format("../../CSV/评论分词/word_vec.txt", binary=False)
+word_vec_model = gensim.models.KeyedVectors.load_word2vec_format("../../CSV/评论分词/word_vec.csv",binary=False)
 # 建立词索引
 word_index, embeddings_matrix=build_embeddings_matrix(word_vec_model)
-
 x_train, x_val, x_test, y_train, y_val, y_test=train_data(word_index)
-
+# print(x_train)
+# print(x_val)
+# print(x_test)
 model=build_model(word_index, embeddings_matrix)
 # 训练
 model.fit(x_train, y_train, epochs=100, validation_data=(x_val, y_val))
