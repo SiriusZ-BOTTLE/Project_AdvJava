@@ -3,9 +3,9 @@ import sys
 
 from PyQt5.QtWidgets import *
 
-import ANALYSOR.SongFilter.songFilter_byKeyWord as tool
+import ANALYSOR.Main.songFilter_byKeyWord as KW
 
-
+import ANALYSOR.pycode.评论预测 as CP
 
 
 
@@ -19,7 +19,7 @@ class MainWindow(QMainWindow):
 
         self.group_box_main = QGroupBox("请输入关键词:")
         self.label_main = QLabel("请键入信息")
-        self.label_info = QLabel("运行时界面可能会未响应")
+        self.label_info = QLabel("运行时界面可能会未响应, 正常现象")
 
         self.radiobox_comment = QRadioButton("评论预测")
         self.radiobox_key_word = QRadioButton("关键词检索")
@@ -53,12 +53,15 @@ class MainWindow(QMainWindow):
         print(string)
 
         if self.radiobox_key_word.isChecked():
-            tool.run(string)
+            KW.run(string)
+        else:
+            string = self.textEdit.toPlainText()
+            value = CP.pred(string)
+            self.label_info.setText("当前评论可能成为热评的概率为: %%%d" % value)
 
     @staticmethod
     def on_btn_close_clicked(self):
         sys.exit(0)
-
 
 
 # 生命;意义;力量;价值;疯狂;酒;欲望;生活
